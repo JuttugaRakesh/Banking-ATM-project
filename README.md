@@ -1,2 +1,2 @@
 # Banking-ATM-project
-An simple program to handle the ATM Machine
+An simple program to handle ATM Machine
